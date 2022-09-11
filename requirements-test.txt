@@ -485,7 +485,7 @@ numpy==1.23.1
     #   -c requirements.txt
     #   -r requirements.txt
     #   pandas
-oauthlib==3.2.0
+oauthlib==3.2.1
     # via
     #   -c requirements.txt
     #   -r requirements.txt
