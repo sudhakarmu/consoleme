@@ -242,7 +242,7 @@ numpy==1.23.1
     # via
     #   -r requirements.in
     #   pandas
-oauthlib==3.2.0
+oauthlib==3.2.1
     # via
     #   atlassian-python-api
     #   requests-oauthlib
