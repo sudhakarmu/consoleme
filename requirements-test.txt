@@ -401,7 +401,7 @@ jmespath==1.0.1
     #   boto3
     #   botocore
     #   parliament
-joblib==1.1.0
+joblib==1.2.0
     # via
     #   -c requirements.txt
     #   -r requirements.txt
