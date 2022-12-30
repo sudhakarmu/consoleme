@@ -287,7 +287,7 @@ gitdb==4.0.9
     #   -c requirements.txt
     #   -r requirements.txt
     #   gitpython
-gitpython==3.1.27
+gitpython==3.1.30
     # via
     #   -c requirements.txt
     #   -r requirements.txt
