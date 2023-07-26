@@ -56,7 +56,7 @@ cchardet==2.1.7
     # via -r requirements.in
 celery==5.2.7
     # via -r requirements.in
-certifi==2022.6.15
+certifi==2023.7.22
     # via
     #   elasticsearch
     #   requests
