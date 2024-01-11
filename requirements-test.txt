@@ -287,7 +287,7 @@ gitdb==4.0.9
     #   -c requirements.txt
     #   -r requirements.txt
     #   gitpython
-gitpython==3.1.27
+gitpython==3.1.41
     # via
     #   -c requirements.txt
     #   -r requirements.txt
@@ -388,7 +388,7 @@ isort==5.10.1
     #   -r requirements.txt
     #   datamodel-code-generator
     #   pylint
-jinja2==3.1.2
+jinja2==3.1.3
     # via
     #   -c requirements.txt
     #   -r requirements.txt
