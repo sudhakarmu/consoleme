@@ -111,7 +111,7 @@ deprecated==1.2.13
     #   redis
 dill==0.3.5.1
     # via pylint
-dnspython==2.2.1
+dnspython==2.6.0rc1
     # via email-validator
 ecdsa==0.18.0
     # via python-jose
