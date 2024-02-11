@@ -218,7 +218,7 @@ dill==0.3.5.1
     #   pylint
 distlib==0.3.5
     # via virtualenv
-dnspython==2.2.1
+dnspython==2.6.0rc1
     # via
     #   -c requirements.txt
     #   -r requirements.txt
