@@ -56,7 +56,7 @@ attrs==21.4.0
     #   aiohttp
     #   jsonschema
     #   pytest
-bandit==1.7.4
+bandit==1.7.7
     # via -r requirements-test.in
 bcrypt==3.2.2
     # via
