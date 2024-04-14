@@ -357,7 +357,7 @@ httplib2==0.20.4
     #   google-auth-httplib2
 identify==2.5.1
     # via pre-commit
-idna==3.3
+idna==3.7
     # via
     #   -c requirements.txt
     #   -r requirements.txt
