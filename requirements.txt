@@ -384,7 +384,7 @@ schema==0.7.5
     # via policy-sentry
 semver==2.13.0
     # via prance
-sentry-sdk==1.7.1
+sentry-sdk==2.8.0
     # via -r requirements.in
 simplejson==3.17.6
     # via -r requirements.in
