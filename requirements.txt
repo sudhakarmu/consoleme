@@ -4,7 +4,7 @@
 #
 #    pip-compile --no-emit-index-url --output-file=requirements.txt requirements.in
 #
-aiohttp==3.8.1
+aiohttp==3.13.3
     # via aiozipkin
 aiosignal==1.2.0
     # via aiohttp
@@ -436,7 +436,7 @@ ujson==5.4.0
     # via -r requirements.in
 uritemplate==4.1.1
     # via google-api-python-client
-urllib3==1.26.10
+urllib3==2.6.3
     # via
     #   botocore
     #   elasticsearch
